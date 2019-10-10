@@ -14,6 +14,6 @@ Mall_Customers.csv
 
 ## Authors
 
-* **Roma Slipchuk** - *Initial work* - [MDS/Clustering](https://github.com/romanslipchuk/MDS/)
+* **Roma Slipchuk** - *Initial work* - [MDS/Clustering](https://github.com/romanslipchuk/MDS/tree/master/Clustering)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
